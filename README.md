@@ -44,8 +44,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/gitPlusPlus.git
-   cd gitPlusPlus
+   git clone https://github.com/redteamguy/gpp.git
+   cd gpp
    ```
 
 2. **Compile the project**
